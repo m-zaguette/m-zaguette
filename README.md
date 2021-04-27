@@ -1,4 +1,4 @@
-### Hi there 👋 This is me!
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Marcelo Zaguette Junior</h1>
 
 Currently I'm a student of computer engineer at <a href="https://www.facens.br/home?l=en">Facens.</a>
 
@@ -9,3 +9,19 @@ My <a href="https://www.linkedin.com/in/marcelozaguettejunior/">LinkedIn</a> pro
 Currently I'm looking for opportunities as Intern or junior dev to increase my experience and develop skills.
 
 - 🔭 I’m currently working on scientific research with Data Lake about the COVID-19 in Brazil.
+
+ ---
+
+<div align="center">
+
+![Marcelo Zaguette's github stats](https://github-readme-stats.vercel.app/api?username=m-zaguette&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-zaguette&theme=dark)](https://github.com/m-zaguette/github-readme-stats)
+
+</div>
+
+---
+
+   <div align="center">
+   [![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Zaguette%20Junior-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelozaguettejunior/)](https://www.linkedin.com/in/marcelozaguettejunior/)
+   </div>
