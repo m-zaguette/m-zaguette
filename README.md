@@ -23,5 +23,5 @@ Currently I'm looking for opportunities as Intern or junior dev to increase my e
 ---
 
    <div align="center">
-    [![Linkedin Badge](https://img.shields.io/badge/-Marcelo%20Zaguette-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelozaguettejunior/)](https://www.linkedin.com/in/marcelozaguettejunior/)
+    [![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
    </div>
