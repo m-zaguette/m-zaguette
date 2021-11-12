@@ -16,7 +16,8 @@ Currently I'm looking for opportunities as Intern or junior dev to increase my e
 
 ![Marcelo Zaguette's github stats](https://github-readme-stats.vercel.app/api?username=m-zaguette&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-zaguette&theme=dark)](https://github.com/m-zaguette/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-zaguette&theme=dark&layout=compact)
+
 
 </div>
 
